@@ -13,3 +13,6 @@
 [submodule "auth-ms"]
 	path = auth-ms
 	url = https://github.com/Online-Store-Microservices/auth-ms.git
+[submodule "users-ms"]
+	path = users-ms
+	url = https://github.com/Online-Store-Microservices/users-ms.git
